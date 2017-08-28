@@ -3,7 +3,7 @@ Guo's 3D Calibrations
 Guo's method is to obtain the 3D calibration coefficient by applying the normalization value and using the least squares method. In this experiment, the distance between the reference plane and each plane was used as the normalization value and two coefficients were used. The 3D calibration coefficient can be obtained by applying the least squares method using the phase difference between the reference plane and each plane and the actual distance. In the figure below, there are n planes starting from the reference plane and the height of the reference plane is indicated by .  
 
 <p align="center">
- <img src="System2.bmp" alt="System.jpg" width = "400" display="block" margin="0 auto"  />
+ <img src="System.JPG" alt="System" width = "400" display="block" margin="0 auto"  />
 </p>
 
 
@@ -18,7 +18,7 @@ In equation 1, means the 3D calibration coefficients. This can be calculated by 
 Now, we can obtain the height for the input phase value by using the coefficient for height measurement for each pixel. The formula for calculating the height value is shown in Equation (5).  
 
 <p align="center">
- <img src="/guo's equations2.jpg" alt="equation2" width = "500" display="block" margin="0 auto"  />
+ <img src="guo's equations2.JPG" alt="equation2" width = "500" display="block" margin="0 auto"  />
 </p>
 
  denotes the height of the pixel , and B denotes the phase difference between the reference plane and the object image to be measured at the pixel . Also,  and represents the 3D calibration coefficient obtained previously.
