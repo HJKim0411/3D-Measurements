@@ -1,6 +1,4 @@
-About 3D-Measurements Repository  
----
-
+# About 3D-Measurements Repository  
 In this repository, 3D measurements method is the Phase Measuring Profilometry(PMP).  
 There are two ways in PMP.  
 1. The PMP using phase difference.(below's image is steps of this method)  
