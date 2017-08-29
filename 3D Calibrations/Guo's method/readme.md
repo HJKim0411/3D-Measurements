@@ -1,3 +1,11 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+</head>
+<body data-document>&nbsp;</body>
+</html>
 
 ###Guo's 3D Calibrations  
 Guo's method is to obtain the 3D calibration coefficient by applying the normalization value and using the least squares method. In this experiment, the distance between the reference plane and each plane was used as the normalization value and two coefficients were used. The 3D calibration coefficient can be obtained by applying the least squares method using the phase difference between the reference plane and each plane and the actual distance. In the figure below, there are n planes starting from the reference plane and the height of the reference plane is indicated by $h_i$.  
